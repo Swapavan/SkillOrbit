@@ -34,7 +34,7 @@ SkillOrbit follows a client-server architecture:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/swapavan11/SkillOrbit.git
+   https://github.com/Swapavan/SkillOrbit.git
    ```
 2. Install dependencies:
    ```sh
@@ -64,3 +64,4 @@ SkillOrbit follows a client-server architecture:
 2. Course management: Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
 3. Payment Integration: Students will purchase and enrol on courses by completing the checkout flow that is followed by Razorpay integration for payment handling.
 4. Cloud-based media management: SkillO uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
+
